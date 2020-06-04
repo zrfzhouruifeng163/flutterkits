@@ -1,5 +1,5 @@
 import 'package:shared_preferences/shared_preferences.dart';
-
+///封装SharedPreference
 class SharedPreferenceUtil {
   static Future<bool> setBool(String key, bool value) async {
     SharedPreferences prefs = await SharedPreferences.getInstance();
