@@ -28,7 +28,6 @@ flutter:
     - images/icon_login_password_show.png
     - images/icon_login_private_selected.png
     - images/icon_login_private_unselected.png
-    - images/icon_login_top_bg.png
     - images/icon_login_username_delete.png
     - images/icon_tenant_selected.png
     - images/icon_tenant_item_leading.png
