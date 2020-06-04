@@ -48,7 +48,6 @@ class _MyHomePageState extends State<TestPage> {
         child: SingleChildScrollView(
           child: Column(
             children: <Widget>[
-              Image.asset("images/icon_login_top_bg.png"),
               Container(
                 padding: EdgeInsets.symmetric(horizontal: 30),
                 margin: EdgeInsets.only(top: 20),
